@@ -1,0 +1,13 @@
+table, th, td {
+    border: 2px solid;
+  }
+h1 {
+    text-align: center;
+}
+body {
+    background-color: lightcoral;
+}
+#linki
+{
+    font-size: 200%;
+}
